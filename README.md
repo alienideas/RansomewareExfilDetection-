@@ -4,7 +4,7 @@
 
 Lightweight, silent first-line defense scripts that detect **ransomware recovery inhibition** (shadow copy / snapshot deletion) and **data exfiltration** before encryption begins. Built for security teams, SOC analysts, blue team defenders, and system administrators who need practical host-based detection without heavy agents.
 
-**Keywords / Search terms:** ransomware detection, ransomware early warning, shadow copy deletion detection, VSS deletion monitor, Volume Shadow Copy Service ransomware, data exfiltration detection, outbound traffic anomaly detection, T1490 Inhibit System Recovery, pre-encryption ransomware indicators, Windows ransomware hunter, Linux ransomware detection script, backup deletion monitoring, DNS tunneling detection, silent security monitoring scripts, SOC automation scripts, blue team tools, MITRE ATT&CK T1490, ransomware canary alternative, host-based ransomware detection, PowerShell ransomware detection, Bash ransomware hunter.
+**Keywords :** ransomware detection, ransomware early warning, shadow copy deletion detection, VSS deletion monitor, Volume Shadow Copy Service ransomware, data exfiltration detection, outbound traffic anomaly detection, T1490 Inhibit System Recovery, pre-encryption ransomware indicators, Windows ransomware hunter, Linux ransomware detection script, backup deletion monitoring, DNS tunneling detection, silent security monitoring scripts, SOC automation scripts, blue team tools, MITRE ATT&CK T1490, ransomware canary alternative, host-based ransomware detection, PowerShell ransomware detection, Bash ransomware hunter.
 
 ---
 
